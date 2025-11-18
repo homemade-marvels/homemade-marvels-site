@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd sites/generic && npm install && npm run build",
+  "outputDirectory": "sites/generic/.next",
+  "installCommand": "npm install",
+  "framework": "nextjs"
+}

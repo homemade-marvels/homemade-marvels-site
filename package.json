@@ -14,7 +14,8 @@
     "build:generic": "cd sites/generic && npm run build",
     "build:christmas": "cd sites/christmas && npm run build",
     "build:buche": "cd sites/buche-noel && npm run build",
-    "build:all": "npm run build:generic && npm run build:christmas && npm run build:buche"
+    "build:all": "npm run build:generic && npm run build:christmas && npm run build:buche",
+    "vercel-build": "cd sites/generic && npm install && npm run build"
   },
   "devDependencies": {
     "concurrently": "^8.2.2"
