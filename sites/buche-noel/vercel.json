@@ -1,0 +1,5 @@
+{
+  "installCommand": "cd ../.. && npm install && cd sites/buche-noel && npm install",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next"
+}
