@@ -1,0 +1,24 @@
+{
+  "name": "homemade-marvels-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Monorepo for Homemade Marvels cake websites",
+  "workspaces": [
+    "sites/*"
+  ],
+  "scripts": {
+    "dev:generic": "cd sites/generic && npm run dev",
+    "dev:christmas": "cd sites/christmas && npm run dev -- -p 3001",
+    "dev:buche": "cd sites/buche-noel && npm run dev -- -p 3002",
+    "dev:all": "concurrently \"npm run dev:generic\" \"npm run dev:christmas\" \"npm run dev:buche\"",
+    "build:generic": "cd sites/generic && npm run build",
+    "build:christmas": "cd sites/christmas && npm run build",
+    "build:buche": "cd sites/buche-noel && npm run build",
+    "build:all": "npm run build:generic && npm run build:christmas && npm run build:buche"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": ["cakes", "bakery", "homemade"],
+  "author": "Homemade Marvels"
+}
