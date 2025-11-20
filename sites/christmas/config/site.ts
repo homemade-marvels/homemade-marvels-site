@@ -18,7 +18,7 @@ export const siteConfig: SiteConfig = {
   },
   social: {
     instagram: 'https://instagram.com/homemademarvels',
-    email: 'contact@homemade-marvels.com',
+    email: 'contact@homemademarvels.com',
     phone: '06 58 91 13 82',
   },
   seo: {
