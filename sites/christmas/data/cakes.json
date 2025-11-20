@@ -4,7 +4,7 @@
     "name": "Gâteau au Chocolat Fondant",
     "description": "Un délicieux gâteau au chocolat avec un cœur fondant, parfait pour les amateurs de chocolat.",
     "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&q=80",
-    "shopifyUrl": "https://your-store.myshopify.com/products/gateau-chocolat",
+    "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
     "category": "chocolat",
     "tags": ["Chocolat", "Fondant", "Personnalisable"]
   },
@@ -13,7 +13,7 @@
     "name": "Gâteau Vanille Fraise",
     "description": "Gâteau moelleux à la vanille garni de fraises fraîches et de crème chantilly.",
     "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&q=80",
-    "shopifyUrl": "https://your-store.myshopify.com/products/gateau-vanille-fraise",
+    "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
     "category": "fruits",
     "tags": ["Vanille", "Fraise", "Léger"]
   },
@@ -22,7 +22,7 @@
     "name": "Gâteau d'Anniversaire Multicolore",
     "description": "Un gâteau festif et coloré, parfait pour célébrer un anniversaire mémorable.",
     "image": "https://images.unsplash.com/photo-1558636508-e0db3814bd1d?w=800&q=80",
-    "shopifyUrl": "https://your-store.myshopify.com/products/gateau-anniversaire",
+    "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
     "category": "anniversaire",
     "tags": ["Anniversaire", "Coloré", "Festif"]
   },
@@ -31,7 +31,7 @@
     "name": "Gâteau Forêt Noire",
     "description": "Le classique revisité: génoise au chocolat, cerises et chantilly.",
     "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&q=80",
-    "shopifyUrl": "https://your-store.myshopify.com/products/foret-noire",
+    "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
     "category": "chocolat",
     "tags": ["Chocolat", "Cerise", "Classique"]
   },
@@ -40,7 +40,7 @@
     "name": "Gâteau Citron Meringué",
     "description": "Fraîcheur du citron et douceur de la meringue italienne.",
     "image": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?w=800&q=80",
-    "shopifyUrl": "https://your-store.myshopify.com/products/citron-meringue",
+    "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
     "category": "fruits",
     "tags": ["Citron", "Meringue", "Rafraîchissant"]
   },
@@ -49,7 +49,7 @@
     "name": "Gâteau Red Velvet",
     "description": "Le fameux gâteau américain avec son cream cheese frosting onctueux.",
     "image": "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?w=800&q=80",
-    "shopifyUrl": "https://your-store.myshopify.com/products/red-velvet",
+    "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
     "category": "special",
     "tags": ["Red Velvet", "Cream Cheese", "Américain"]
   },
@@ -58,7 +58,7 @@
     "name": "Gâteau Tropical",
     "description": "Ananas, mangue et coco pour une escapade ensoleillée.",
     "image": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=800&q=80",
-    "shopifyUrl": "https://your-store.myshopify.com/products/tropical",
+    "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
     "category": "fruits",
     "tags": ["Tropical", "Fruits Exotiques", "Coco"]
   },
@@ -67,7 +67,7 @@
     "name": "Gâteau Café Noisette",
     "description": "Pour les amateurs de café: génoise au café et ganache noisette.",
     "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=800&q=80",
-    "shopifyUrl": "https://your-store.myshopify.com/products/cafe-noisette",
+    "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
     "category": "special",
     "tags": ["Café", "Noisette", "Gourmand"]
   }
