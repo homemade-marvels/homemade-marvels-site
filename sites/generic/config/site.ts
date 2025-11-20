@@ -17,10 +17,9 @@ export const siteConfig: SiteConfig = {
     backgroundColor: '#E8D8E0', // Light lavender background
   },
   social: {
-    facebook: 'https://facebook.com/homemademarvels',
     instagram: 'https://instagram.com/homemademarvels',
     email: 'contact@homemade-marvels.com',
-    phone: '+33 6 12 34 56 78',
+    phone: '06 58 91 13 82',
   },
   seo: {
     title: 'Homemade Marvels - Gâteaux Faits Maison',

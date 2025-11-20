@@ -17,10 +17,9 @@ export const siteConfig: SiteConfig = {
     backgroundColor: '#E8F5E9', // Light green background
   },
   social: {
-    facebook: 'https://facebook.com/noelgourmand',
-    instagram: 'https://instagram.com/noelgourmand',
-    email: 'contact@noel-gourmand.com',
-    phone: '+33 6 12 34 56 78',
+    instagram: 'https://instagram.com/homemademarvels',
+    email: 'contact@homemade-marvels.com',
+    phone: '06 58 91 13 82',
   },
   seo: {
     title: 'Noël Gourmand - Gâteaux de Noël Faits Maison',

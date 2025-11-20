@@ -21,7 +21,6 @@ export interface SiteConfig {
     backgroundColor: string;
   };
   social?: {
-    facebook?: string;
     instagram?: string;
     email?: string;
     phone?: string;

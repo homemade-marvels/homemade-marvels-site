@@ -17,10 +17,9 @@ export const siteConfig: SiteConfig = {
     backgroundColor: '#F5E6D3', // Light tan/beige
   },
   social: {
-    facebook: 'https://facebook.com/buchesartisanales',
-    instagram: 'https://instagram.com/buchesartisanales',
-    email: 'contact@buches-artisanales.com',
-    phone: '+33 6 12 34 56 78',
+    instagram: 'https://instagram.com/homemademarvels',
+    email: 'contact@homemade-marvels.com',
+    phone: '06 58 91 13 82',
   },
   seo: {
     title: 'Bûches Artisanales - Bûches de Noël Faites Maison',
