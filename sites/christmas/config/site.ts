@@ -1,7 +1,7 @@
 ﻿import { SiteConfig } from '@shared/types';
 
 export const siteConfig: SiteConfig = {
-  siteName: 'Noël Gourmand',
+  siteName: 'Homemade Marvels - Gâteau de Noël',
   siteDescription: 'Gâteaux et pâtisseries de Noël faits maison',
   domain: 'noel-gourmand.com',
   logo: '/logo.png',
@@ -22,7 +22,7 @@ export const siteConfig: SiteConfig = {
     phone: '06 58 91 13 82',
   },
   seo: {
-    title: 'Noël Gourmand - Gâteaux de Noël Faits Maison',
+    title: 'Homemade Marvels - Gâteau de Noël Faits Maison',
     description: 'Découvrez nos créations de Noël faites maison : bûches, gâteaux festifs, et pâtisseries de fête pour un Noël mémorable.',
     keywords: ['gâteaux de noël', 'bûche de noël', 'pâtisserie de noël', 'desserts de fête', 'gâteaux festifs'],
   },

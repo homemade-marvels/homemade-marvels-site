@@ -1,74 +1,47 @@
 [
   {
     "id": "1",
-    "name": "Gâteau au Chocolat Fondant",
-    "description": "Un délicieux gâteau au chocolat avec un cœur fondant, parfait pour les amateurs de chocolat.",
-    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&q=80",
+    "name": "Gâteau de Noël Monumental",
+    "description": "Spectaculaire gâteau à trois étages décoré sur le thème de Noël, avec cheminée, sapin, et décorations festives. Une pièce maîtresse impressionnante pour vos célébrations.",
+    "image": "/images/gateau.jpg",
     "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
-    "category": "chocolat",
-    "tags": ["Chocolat", "Fondant", "Personnalisable"]
+    "category": "noel",
+    "tags": ["Noël", "Personnalisé", "Festif", "Grande Occasion"]
   },
   {
     "id": "2",
-    "name": "Gâteau Vanille Fraise",
-    "description": "Gâteau moelleux à la vanille garni de fraises fraîches et de crème chantilly.",
-    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800&q=80",
+    "name": "Bûche de Noël au Chocolat",
+    "description": "Bûche traditionnelle au chocolat riche et onctueux, décorée de copeaux de chocolat et touches festives. Le dessert classique qui ravit petits et grands.",
+    "image": "/images/buche-chocolat.jpg",
     "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
-    "category": "fruits",
-    "tags": ["Vanille", "Fraise", "Léger"]
+    "category": "buche",
+    "tags": ["Bûche", "Chocolat", "Tradition", "Noël"]
   },
   {
     "id": "3",
-    "name": "Gâteau d'Anniversaire Multicolore",
-    "description": "Un gâteau festif et coloré, parfait pour célébrer un anniversaire mémorable.",
-    "image": "https://images.unsplash.com/photo-1558636508-e0db3814bd1d?w=800&q=80",
+    "name": "Bûche de Noël Vanille",
+    "description": "Bûche légère à la vanille avec crème onctueuse et décorations élégantes. Une alternative raffinée pour ceux qui préfèrent des saveurs douces.",
+    "image": "/images/buche-vanille.jpg",
     "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
-    "category": "anniversaire",
-    "tags": ["Anniversaire", "Coloré", "Festif"]
+    "category": "buche",
+    "tags": ["Bûche", "Vanille", "Léger", "Élégant"]
   },
   {
     "id": "4",
-    "name": "Gâteau Forêt Noire",
-    "description": "Le classique revisité: génoise au chocolat, cerises et chantilly.",
-    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&q=80",
+    "name": "Sapin de Noël en Chocolat",
+    "description": "Gâteau au chocolat sculpté en forme de sapin de Noël, richement décoré. Une création originale qui émerveillera vos invités.",
+    "image": "/images/christmas-tree-chocolate-cake.jpg",
     "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
-    "category": "chocolat",
-    "tags": ["Chocolat", "Cerise", "Classique"]
+    "category": "noel",
+    "tags": ["Chocolat", "Sapin", "Créatif", "Festif"]
   },
   {
     "id": "5",
-    "name": "Gâteau Citron Meringué",
-    "description": "Fraîcheur du citron et douceur de la meringue italienne.",
-    "image": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?w=800&q=80",
+    "name": "Assortiment de Cupcakes Festifs",
+    "description": "Collection variée de cupcakes décorés aux couleurs de Noël, parfaits pour partager ou offrir. Plusieurs parfums disponibles pour satisfaire tous les goûts.",
+    "image": "/images/various-cupcakes.jpg",
     "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
-    "category": "fruits",
-    "tags": ["Citron", "Meringue", "Rafraîchissant"]
-  },
-  {
-    "id": "6",
-    "name": "Gâteau Red Velvet",
-    "description": "Le fameux gâteau américain avec son cream cheese frosting onctueux.",
-    "image": "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?w=800&q=80",
-    "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
-    "category": "special",
-    "tags": ["Red Velvet", "Cream Cheese", "Américain"]
-  },
-  {
-    "id": "7",
-    "name": "Gâteau Tropical",
-    "description": "Ananas, mangue et coco pour une escapade ensoleillée.",
-    "image": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=800&q=80",
-    "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
-    "category": "fruits",
-    "tags": ["Tropical", "Fruits Exotiques", "Coco"]
-  },
-  {
-    "id": "8",
-    "name": "Gâteau Café Noisette",
-    "description": "Pour les amateurs de café: génoise au café et ganache noisette.",
-    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=800&q=80",
-    "shopifyUrl": "https://homemade-marvels.myshopify.com/pages/demander-un-devis",
-    "category": "special",
-    "tags": ["Café", "Noisette", "Gourmand"]
+    "category": "cupcakes",
+    "tags": ["Cupcakes", "Assortiment", "Coloré", "Partage"]
   }
 ]
