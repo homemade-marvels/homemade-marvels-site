@@ -6,9 +6,10 @@ export const siteConfig: SiteConfig = {
   domain: 'noel-gourmand.com',
   logo: '/logo.png',
   heroImages: [
-    'https://images.unsplash.com/photo-1512568400610-62da28bc8a13?w=1920&q=80',
-    'https://images.unsplash.com/photo-1576343338680-52fa1a6b8830?w=1920&q=80',
-    'https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=1920&q=80',
+    '/images/hero1.jpg',
+    '/images/hero2.jpg',
+    '/images/hero3.jpg',
+    '/images/hero4.jpg',
   ],
   theme: {
     primaryColor: '#C41E3A', // Christmas Red
